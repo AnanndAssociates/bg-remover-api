@@ -5,7 +5,7 @@ import os
 from PIL import Image
 from io import BytesIO
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 UPLOAD_FOLDER = "uploads"
 PROCESSED_FOLDER = "processed"
