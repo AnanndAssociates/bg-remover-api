@@ -43,5 +43,5 @@ def remove():
 
     return send_file(output_path, mimetype='image/png')
 
-if _name_ == '_main_':
+if _name_ == '__main__':
     app.run(debug=True, host="0.0.0.0")
