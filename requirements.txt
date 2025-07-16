@@ -1,4 +1,6 @@
-Flask==2.3.2
-numpy
+Flask
 opencv-python
+numpy
 Pillow
+flask_cors
+gunicorn
