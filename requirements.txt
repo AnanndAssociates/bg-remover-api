@@ -1,6 +1,6 @@
 flask
 flask_cors
-rembg
+rembg[all]
 onnxruntime
 Pillow
 gunicorn
