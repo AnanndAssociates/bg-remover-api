@@ -1,6 +1,5 @@
-Flask
-opencv-python
-numpy
-Pillow
+flask
 flask_cors
+rembg
+Pillow
 gunicorn
